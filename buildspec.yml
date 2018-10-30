@@ -1,9 +1,9 @@
-version: 0.1
+version: 0.2
 
 phases:
   build:
     commands:
-      - echo nothing to do
+      - echo yaml for sync
 
 artifacts:
   files:
